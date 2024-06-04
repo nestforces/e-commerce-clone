@@ -1,1 +1,1 @@
-# ecommerce-clone
+# e-commerce-clone
